@@ -145,8 +145,7 @@ const Index = () => {
               </div>
               <div className="relative">
                 <img 
-                  src="kulhad-khushboo-web-82
-/Kulhad artist.png" 
+               src="kulhad-khushboo-web-82/Kulhad artist.png" 
                   alt="Traditional pottery making" 
                   className="rounded-2xl shadow-2xl"
                 />
